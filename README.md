@@ -4,8 +4,6 @@ OVERVIEW OF THE ANALYSIS:
 Explain the purpose of the analysis:
 •	In this challenge, we aimed to build a machine learning model to identify the creditworthiness of borrowers using historical lending data from a peer-to-peer lending services company. We calculated and predict good loans (0) and bad loans (1) to issue a loan
 
-
-
 Explain what financial information the data was on, and what you needed to predict:
 •	Financial information included loan size, interest rate, borrower income, debt to income, number of accounts, derogatory marks, total debt, and loan status (good or bad).
 •	We needed to split the data into Training and Testing Sets and create a Logistic Regression model to predict weather a loan would be classified as good (0) or bad (1).
